@@ -1,0 +1,43 @@
+.nav{
+	nav-left: 3%;
+	
+}
+.nav-a{
+	margin-top: 23px;
+	text-align: center;
+}
+a{
+	text-decoration : none;
+	color: #000000;
+}
+
+ li{
+	list-style:none;
+}
+li a{
+	font-size: 20px;
+}
+.bottom-promos 
+{
+	margin-top: 5%;
+    background: #f6f6f6;
+    
+}
+.wenzi
+{
+	margin-left: -10%;
+	margin-top: 5%;
+	font-size: 20px;
+}
+.new_title
+{
+	margin-left: 30%;
+}
+.new-cont
+{
+	margin-top: 6%;
+}
+.new-content
+{
+	margin-top: 15%;
+}

@@ -1,0 +1,31 @@
+a{
+	text-decoration : none;
+	color: #000000;
+}
+
+ li{
+	list-style:none;
+}
+.nav{
+	nav-left: 3%;	
+}
+.nav-a{
+	margin-top: 23px;
+	text-align: center;
+}
+li a{
+	font-size: 20px;
+}
+.new_title
+{
+	margin-left: 11%;
+	margin-top: 5%;
+	margin-bottom: 3%;
+	text-align: left;
+}
+.wenzi
+{
+	margin-left: -10%;
+	margin-top: 5%;
+	font-size: 20px;
+}

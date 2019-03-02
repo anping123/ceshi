@@ -1,0 +1,63 @@
+a{
+	text-decoration : none;
+	color: #000000;
+	
+}
+
+ li{
+	list-style:none;
+}
+.nav{
+	nav-left: 3%;	
+}
+.nav-a{
+	margin-top: 23px;
+	text-align: center;
+}
+li a{
+	font-size: 20px;
+}
+#myCarousel{
+	margin-top: -20px;
+
+}
+.container-fluid {
+ 
+  margin:0;padding:0;
+}
+
+.tai
+{	
+	position: absolute;
+	margin:3% 6%;	
+	font-weight: 400;
+	font-size: 21px;
+}
+.bottom-promos 
+	{
+    background: #f6f6f6;
+    
+}
+.lii{
+	margin-top: 80px;
+	
+}
+ .container-fluid-a{
+ 	padding-top: 35px;
+ 	font-size: 20px;
+ }
+.wenzi
+{
+	margin-left: -10%;
+	margin-top: 5%;
+}
+/************浚县介绍文字开始***************/
+.text
+{
+	display: block;
+	margin: auto;
+}
+.text p
+{
+	text-align: center;
+}

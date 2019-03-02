@@ -1,0 +1,70 @@
+.nav{
+	nav-left: 3%;
+	
+}
+.nav-a{
+	margin-top: 23px;
+	text-align: center;
+}
+a{
+	text-decoration : none;
+	color: #000000;
+}
+
+ li{
+	list-style:none;
+}
+li a{
+	font-size: 20px;
+}
+/****************留言中心开始************/
+.title-first {
+	margin-top: 4%;
+	color: mediumblue;
+	font-size: 30px;
+	font-weight: 900;
+}
+.title-second {
+	color: cornflowerblue;
+	font-size: 12px;
+}
+.frame{
+	margin-top: 2%;
+}
+.frame p{
+	font-size: 17px;
+}
+.frame-cont{
+	padding: 1% 0;
+}
+.buttom {
+	background-color: #e4e4e4;
+	padding: 1% 0;
+}
+
+.buttom a {
+	text-decoration: none;
+	font-size: 15px;
+	color: black;
+	font-weight: 900;
+}
+
+.buttom:hover {
+	background-color: #81a849;
+}
+
+.buttom:hover a {
+	color: white;
+}
+/****************留言中心结束************/
+.bottom-promos 
+{
+	margin-top: 5%;
+    background: #f6f6f6;    
+}
+.wenzi
+{
+	margin-left: -10%;
+	margin-top: 5%;
+	font-size: 20px;
+}
